@@ -8,7 +8,7 @@ DEMO VERSION
 Framework  : LUA / LOVE2D
 Graphismes : Alexia
 Code       : JP
-Sons       : Sources libres internet
+Sons       : Sources internet
 
 -------------------------------------------------------------
 Controles : 
