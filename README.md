@@ -9,8 +9,11 @@ présent dans le dossier exe.
 Graphics :
 Alexia 
 
+Code:
+JP
+
 Sounds:
-https://freesound.org/people/Ionicsmusic/
+https://freesound.org/
 
 Fonts: 
 https://www.kenney.nl/assets/kenney-fonts
