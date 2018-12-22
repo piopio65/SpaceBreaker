@@ -7,7 +7,9 @@ SVP lisez le fichier LISEZMOI.txt
 présent dans le dossier exe.
 
 Graphics :
-Alexia 
+Alexia, 
+source internet :
+https://opengameart.org/
 
 Code:
 JP
